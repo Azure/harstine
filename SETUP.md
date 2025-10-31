@@ -16,7 +16,8 @@ To finish project set up, you will need access to an existing Entra group. [Lear
 
 ### Assign Users to your Project via Entra Groups 
 Group assignment is one of the key capabilities with the new integration with Windows 365. You will now use existing Entra groups to create projects. 
-1. Click on 'Add group' to add your entra group to the project resource. These members will have access to create Dev Boxes within the project. 
+1. Navigate to the 'Assignments' tab in the project creation flow 
+Click on 'Add group' to add your entra group to the project resource. These members will have access to create Dev Boxes within the project. 
 2. Select your group in the right hand panel and click on 'Add'. 
 3. Add necessary Tags and click on 'Review and Create' to create your project. 
 
@@ -24,7 +25,11 @@ Group assignment is one of the key capabilities with the new integration with Wi
 ## Create a Pool
 A dev box pool is a collection of dev boxes that have the same settings, such as the image and network connection. A dev box pool is associated with a Microsoft Dev Box project.
 
-Once you have created your project, click into your project and select "pool" in the lefthand panel. 
+1. Once you have created your project, click into your project and select "pool" in the lefthand panel. 
+2. Click on '+Create' to start pool creation. 
+3. Fill out your pool name, Image, network, and creator priviledges. You can optionally set up SSO.  
+4. Once your pool is created, all members from your project will have a dev box provisioned. 
+
 
 ## Access your Dev Box
 Once you have created your Dev Box, you will be able to access and connect to your dev box using the Windows App. 
