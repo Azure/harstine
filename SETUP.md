@@ -16,10 +16,10 @@ To finish project set up, you will need access to an existing Entra group. [Lear
 
 ### Assign Users to your Project via Entra Groups 
 Group assignment is one of the key capabilities with the new integration with Windows 365. You will now use existing Entra groups to create projects. 
-1. Navigate to the 'Assignments' tab in the project creation flow 
-Click on 'Add group' to add your entra group to the project resource. These members will have access to create Dev Boxes within the project. 
-2. Select your group in the right hand panel and click on 'Add'. 
-3. Add necessary Tags and click on 'Review and Create' to create your project. 
+1. During Project creation, navigate to the 'Assignments' tab to start group selection. 
+2. Click on 'Add group' to add your entra group to the project resource. These members will have access to create Dev Boxes within the project. 
+3. Select your group in the right hand panel and click on 'Add'. 
+4. Add necessary Tags and click on 'Review and Create' to create your project. 
 
 
 ## Create a Pool
