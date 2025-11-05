@@ -24,12 +24,11 @@ This PowerShell script automates the process of assigning CloudPC.ReadWrite.All 
 The script requires the following Microsoft Graph permissions:
 
 - **Administrator permissions** in your Microsoft Entra ID tenant (Global Administrator or Privileged Role Administrator)
+
+The Global Administrator permission will grant you the following:
 - **AppRoleAssignment.ReadWrite.All** - To assign application roles
 - **Application.Read.All** - To identify the Project Fidalgo and Graph service principals
 
-When running the script, you'll be prompted to consent to these permissions through a dialog similar to the one shown in the screenshot.
-
-![Consent Dialog Screenshot](consent_dialog_from_script.png)
 
 #### Additional Azure Permissions (Resource Provider Registration)
 

@@ -1,7 +1,13 @@
 # Dev Box Setup
 ## Enable the Dev Box Service
 1. Once you enter the Microsoft Dev Box page in Azure, you will need to run a script to complete the last step of enabling the private preview.  
-2. Click on ‘Get Script’ and run this script in your Azure terminal. 
+2. Click on ‘Get Script’. This will lead you to the Harstine Repository where you will see a scripts folder. Follow the steps in the associated README to run this script. 
+  
+- To visually confirm the registration, navigate to your subscription, go to Settings --> Resource Providers and look up the Microsoft.DevCenter resource provider.  
+
+For example: ![Resource Provider Registered](images/ResourceProvider.png)
+
+
 ## Create a Dev Center
 Create a Dev Center resource to begin resource setup. The Dev Center usually represents your enterprise or organization using the Dev Box service. 
 1. Click on ‘Dev Centers’ in the left hand panel to begin Dev Center creation. Fill in the basics. 
