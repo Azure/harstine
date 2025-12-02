@@ -44,3 +44,6 @@ A dev box pool is a collection of dev boxes that have the same settings, such as
 Once you have created your Dev Box, you will be able to access and connect to your dev box using the Windows App. 
 Install the Windows App from the Microsoft App Store: https://apps.microsoft.com/detail/9n1f85v9t8bn?hl=en-US&gl=US 
 Once you log in, you will see your Dev Box. Click on “Connect”. 
+
+## Feedback
+Please let us know if you have feedback on the documentation or experience at: https://forms.office.com/r/mmM19znist 
