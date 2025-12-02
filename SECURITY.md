@@ -11,4 +11,6 @@ For security reporting information, locations, contact information, and policies
 please review the latest guidance for Microsoft repositories at
 [https://aka.ms/SECURITY.md](https://aka.ms/SECURITY.md).
 
+*Please note that all information provided as part of this private preview is considered confidential and is protected under your existing NDA with Microsoft.*
+
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
