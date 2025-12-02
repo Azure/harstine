@@ -47,3 +47,5 @@ Once you log in, you will see your Dev Box. Click on “Connect”.
 
 ## Feedback
 Please let us know if you have feedback on the documentation or experience at: [Feedback on the Dev Box + W365 Frontline Private Preview](https://forms.office.com/r/mmM19znist) 
+
+*Please note that all information provided as part of this private preview is considered confidential and is protected under your existing NDA with Microsoft.*
