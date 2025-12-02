@@ -22,3 +22,5 @@ Once you have copmpleted the pre-requisites, you can now move onto Dev Bod Set U
 
 ## Feedback
 Please let us know if you have feedback on the private preview experience or documentation at: [Feedback on the Dev Box + W365 Frontline Private Preview](https://forms.office.com/r/mmM19znist) 
+
+*Please note that all information provided as part of this private preview is considered confidential and is protected under your existing NDA with Microsoft.*
