@@ -46,4 +46,4 @@ Install the Windows App from the Microsoft App Store: https://apps.microsoft.com
 Once you log in, you will see your Dev Box. Click on “Connect”. 
 
 ## Feedback
-Please let us know if you have feedback on the documentation or experience at: https://forms.office.com/r/mmM19znist 
+Please let us know if you have feedback on the documentation or experience at: [Feedback on the Dev Box + W365 Frontline Private Preview](https://forms.office.com/r/mmM19znist) 
