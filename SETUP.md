@@ -1,7 +1,7 @@
 # Dev Box Setup
 ## Enable the Dev Box Service
 1. Once you enter the Microsoft Dev Box page in Azure, you will need to run a script to complete the last step of enabling the private preview.  
-2. Click on ‘Get Script’. This will lead you to the Harstine Repository where you will see a scripts folder. Follow the steps in the associated README to run this script. 
+2. Click on ‘Get Script’. This will lead you to the Harstine Repository where you will see a scripts folder. Follow the steps in the associated README to run this script. You can also directly access the script by clicking on the scripts folder in this repository. 
   
 - To visually confirm the registration, navigate to your subscription, go to Settings --> Resource Providers and look up the Microsoft.DevCenter resource provider. You should see that it has been registered. 
 
