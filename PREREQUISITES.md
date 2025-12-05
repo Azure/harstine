@@ -18,7 +18,7 @@ You will need to do the following:
 - If you would like to test out the preview with higher SKUs/ more licenses than the trial license, please contact support. 
 
 
-Once you have copmpleted the pre-requisites, you can now move onto Dev Bod Set Up. Please review the instructions in setup.md.
+Once you have copmpleted the pre-requisites, you can now move onto Dev Box Set Up. Please review the instructions in setup.md.
 
 ## Feedback
 Please let us know if you have feedback on the private preview experience or documentation at: [Feedback on the Dev Box + W365 Frontline Private Preview](https://forms.office.com/r/mmM19znist) 
